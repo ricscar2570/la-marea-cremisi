@@ -677,7 +677,7 @@ Oggi, i templi sono ancora pieni — ma i fedeli non pregano più la Dea delle M
 
 ### Porto Salvia
 
-> *Ville di marmo bianco si affacciano su giardini terrazzati che scendono verso il porto. Gondole dorate scivolano tra i canali, trasportando nobili in maschera verso feste che sembrano non finire mai. Ma dietro le maschere elaborate, gli occhi sono vuoti. E le risate hanno un tono meccanico, ripetitivo, come se chi ride avesse dimenticato perché lo sta facendo.*
+> *A Porto Salvia le feste non si fermano. Questo è il primo dettaglio strano: non che qualcosa sia sbagliato, ma che qualcosa non smette mai. Le gondole circolano anche all'alba. I candelabri non vengono spenti. I nobili in maschera ballano ancora quando gli altri dormono, e ridono ancora quando non c'è più niente di cui ridere. Nessuno sembra stanco. Nessuno sembra triste. Dopo un po' i personaggi capiscono che non è eleganza: queste persone non ricordano più come si fa a smettere.*
 
 Porto Salvia è la città più ricca dell'arcipelago, sede delle grandi famiglie nobiliari che controllano il commercio marittimo. Le sue feste sono leggendarie, i suoi intrighi ancora di più. Qui, la politica si fa con veleni sottili e alleanze matrimoniali, con scandali sussurrati e favori scambiati.
 
@@ -722,7 +722,7 @@ Scogliera Nera è il primo passo verso questo orrore.
 
 ### Isola Corallo
 
-> *Le acque intorno all'isola sono di un azzurro così intenso da sembrare irreale, e sotto la superficie si intravede una foresta di coralli dai colori impossibili — rossi, viola, dorati. L'isola stessa è un paradiso tropicale: palme, spiagge bianche, una brezza calda profumata di fiori. Ma le navi che vedi all'orizzonte non sono mercantili. Sono navi da guerra, e portano bandiere nere.*
+> *Dall'acqua, l'Isola Corallo ha l'aria di un posto tranquillo. Palme, coralli visibili attraverso l'acqua bassa, fumo dai comignoli. Il porto è operativo: ci sono navi, ci sono corde tese, c'è attività. Ma la spiaggia è vuota. I campi sono vuoti. Non c'è nessuno fuori che non stia lavorando per la Marea. Le persone dell'isola vivono dentro, con le imposte chiuse, e non escono quando attraccano navi che non riconoscono.*
 
 Isola Corallo non ha una città nel senso tradizionale. È il territorio dell'Ammiraglio Osso-Spezzato, un ex pirata che ha trovato nella Marea un modo per costruire una flotta che non ha bisogno di paga, cibo, o riposo. Le sue navi pattugliano le acque dell'arcipelago, catturando mercantili e pescatori per rifornire la Rete di nuovi ospiti.
 
@@ -814,7 +814,7 @@ La nave è stata "nutrita" con materiale biologico parassitario per così tanto 
 
 ### L'Isola Necrotica
 
-> *L'isola emerge dalla nebbia come un sogno — o un incubo. La vegetazione è lussureggiante ma sbagliata: alberi dai tronchi traslucidi che lasciano vedere la linfa pulsare, fiori che si aprono e chiudono come bocche, erba che si piega verso di voi quando passate, come se cercasse di toccarvi. L'aria è calda e umida, satura di un profumo dolciastro che ricorda il miele e la carne in decomposizione. E ovunque, quel suono: un battito costante, profondo, che viene da sotto i vostri piedi. Il cuore dell'isola. Il cuore della Madre.*
+> *La nebbia si apre e l'isola è già vicina. I tronchi degli alberi sono traslucidi: la linfa vi pulsa dentro come sangue in una vena. I fiori si aprono al vostro passaggio. L'erba a bordo sentiero si raddrizza e si volta verso di voi, piano, senza urgenza, come fa un animale quando riconosce qualcuno. L'aria sa di miele. Poi, sotto, sa di qualcos'altro — qualcosa che non si nomina facilmente ma che si conosce. E ovunque, dal suolo, un battito. Costante, profondo, del tutto privo di fretta. Questa è la casa della Madre. Ha sempre saputo che sareste arrivati.*
 
 L'Isola Necrotica non è un luogo naturale. È un'estensione della Madre Primordiale — un territorio che lei ha plasmato nel corso di millenni per riflettere la sua visione di "vita perfetta". Ogni organismo sull'isola è connesso alla Rete. Ogni pianta, ogni insetto, ogni batterio nel suolo è parte di qualcosa di più grande.
 
@@ -847,7 +847,7 @@ Il tempo scorre diversamente sull'isola. Una notte può durare ore o giorni, a d
 
 ### Elena Maresalto
 
-> *"La scienza non mente. Ma a volte rivela verità che avremmo preferito non conoscere."*
+> *"Stavo per fare un errore metodologico. Ho passato sei mesi a studiare questi organismi come se fossero un problema da risolvere. Poi ho capito che non hanno nessun problema. Siamo noi il problema."*
 > — Elena, esaminando il primo parassita
 
 Elena Maresalto è il personaggio non giocante più importante della campagna — una biologa brillante che diventa l'esperta, la coscienza morale, e potenzialmente il cuore emotivo della storia. Il suo arco narrativo corre parallelo a quello dei giocatori, e le sue scelte possono influenzare profondamente il finale.
@@ -900,7 +900,7 @@ Durante la campagna, Elena oscillerà tra determinazione e dubbio. I giocatori p
 
 ### Capitano Marcus Hayes
 
-> *"Ho visto abbastanza per sapere che il male esiste. Ma ho anche visto abbastanza per sapere che può essere fermato — se qualcuno ha il coraggio di provarci."*
+> *"Ventotto anni. Sai quante persone ho visto credere di fare la cosa giusta mentre facevano la cosa sbagliata? Abbastanza. Abbastanza da sapere che la differenza sta nelle domande che ti fai dopo, non nelle risposte che ti dai prima."*
 > — Hayes, prima della prima missione
 
 Il Capitano Hayes è ciò che ogni guardia vorrebbe essere: giusto, coraggioso, incorruttibile. Ha servito per ventotto anni, salvando innumerevoli vite e costruendo una reputazione impeccabile. È il tipo di uomo che ispira gli altri a essere migliori.
@@ -942,7 +942,7 @@ Se i giocatori la salvano durante l'Arco 1, la Baronessa diventa una potente all
 
 ### Dottor Marcus Thornwick
 
-> *"Vedete, il problema con la medicina tradizionale è che cerca di curare il corpo. Io ho capito che il vero problema è la mente — quella prigione di carne che ci tiene separati gli uni dagli altri. La Madre offre la vera guarigione."*
+> *"Sa quante operazioni ho fatto? Duemilacinquecento, forse tremila. Sa quante volte ho dovuto fingere di tenere al paziente come persona, invece che come problema tecnico? Ogni volta. La Madre non chiede di fingere. Nella Rete la cura è reale e la connessione è reale. Non c'è differenza tra curarsi e appartenersi."*
 > — Thornwick, durante l'asta
 
 Il Dottor Marcus Thornwick era un chirurgo rispettato prima della sua conversione — famoso per le sue mani ferme e la sua mente brillante. Era anche un uomo profondamente solo, incapace di formare legami emotivi con altri esseri umani, che vedeva i pazienti come problemi da risolvere piuttosto che persone da curare.
@@ -1786,7 +1786,7 @@ Almeno uno di questi meccanismi dovrebbe essere attivato in ogni campagna, indip
 | **Tempo Richiesto** | 3 settimane (Investigare → Esfiltrare bambini → Confronto Contessa) |
 | **Sfida Principale** | Navigare la politica della nobiltà mentre si salvano i bambini |
 
-> *Ville di marmo bianco si affacciano su giardini terrazzati che scendono verso il porto. Gondole dorate scivolano tra i canali, trasportando nobili in maschera verso feste che sembrano non finire mai. Ma dietro le maschere elaborate, gli occhi sono vuoti. E le risate hanno un tono meccanico, ripetitivo, come se chi ride avesse dimenticato perché lo sta facendo.*
+> *A Porto Salvia le feste non si fermano. Questo è il primo dettaglio strano: non che qualcosa sia sbagliato, ma che qualcosa non smette mai. Le gondole circolano anche all'alba. I candelabri non vengono spenti. I nobili in maschera ballano ancora quando gli altri dormono, e ridono ancora quando non c'è più niente di cui ridere. Nessuno sembra stanco. Nessuno sembra triste. Dopo un po' i personaggi capiscono che non è eleganza: queste persone non ricordano più come si fa a smettere.*
 
 La Contessa Malvasia è una figura rispettata che gestisce orfanotrofi in tutta la città. In segreto, i bambini "adottati" vengono convertiti in Marionette Parassita di piccola taglia, destinate agli esperimenti dell'Evocatore VII.
 
@@ -1828,7 +1828,7 @@ Le maschere sono belle. Non è questo il problema — il problema è che sono pe
 | **Tempo Richiesto** | 2–3 settimane |
 | **Sfida Principale** | Salvare un uomo buono costretto a fare cose terribili |
 
-> *Le acque intorno all'isola sono di un azzurro così intenso da sembrare irreale, e sotto la superficie si intravede una foresta di coralli dai colori impossibili. L'isola stessa è un paradiso tropicale: palme, spiagge bianche, una brezza calda profumata di fiori. Ma le navi che vedi all'orizzonte non sono mercantili. Sono navi da guerra, e portano bandiere nere.*
+> *Dall'acqua, l'Isola Corallo ha l'aria di un posto tranquillo. Palme, coralli visibili attraverso l'acqua bassa, fumo dai comignoli. Il porto è operativo: ci sono navi, ci sono corde tese, c'è attività. Ma la spiaggia è vuota. I campi sono vuoti. Non c'è nessuno fuori che non stia lavorando per la Marea. Le persone dell'isola vivono dentro, con le imposte chiuse, e non escono quando attraccano navi che non riconoscono.*
 
 Silas non è un agente volontario. L'Evocatore tiene prigioniera sua figlia Elara sull'Isola Necrotica. Se i personaggi salvano Elara (missione parallela), Silas smette di collaborare — non c'è bisogno di combattere.
 
@@ -2094,7 +2094,7 @@ Se i PG possiedono ancora il Requiem Salato, possono usarlo per il viaggio verso
 
 ## L'Isola Necrotica
 
-> *L'isola emerge dalla nebbia come un sogno — o un incubo. La vegetazione è lussureggiante ma sbagliata: alberi dai tronchi traslucidi che lasciano vedere la linfa pulsare, fiori che si aprono e chiudono come bocche, erba che si piega verso di voi quando passate, come se cercasse di toccarvi. L'aria è calda e umida, satura di un profumo dolciastro che ricorda il miele e la carne in decomposizione. E ovunque, quel suono: un battito costante, profondo, che viene da sotto i vostri piedi. Il cuore dell'isola. Il cuore della Madre.*
+> *La nebbia si apre e l'isola è già vicina. I tronchi degli alberi sono traslucidi: la linfa vi pulsa dentro come sangue in una vena. I fiori si aprono al vostro passaggio. L'erba a bordo sentiero si raddrizza e si volta verso di voi, piano, senza urgenza, come fa un animale quando riconosce qualcuno. L'aria sa di miele. Poi, sotto, sa di qualcos'altro — qualcosa che non si nomina facilmente ma che si conosce. E ovunque, dal suolo, un battito. Costante, profondo, del tutto privo di fretta. Questa è la casa della Madre. Ha sempre saputo che sareste arrivati.*
 
 {{note
 ##### 📜 La Geografia dell'Isola
@@ -2155,17 +2155,13 @@ Il Guardiano della Camera (CR 14) presidia questo corridoio. È la fusione di un
 
 ## La Camera della Madre
 
-> *La camera è una cattedrale biologica. Costole formano archi. Vene pulsanti forniscono illuminazione. Al centro: una piscina bioluminescente, 20 metri di diametro. Dentro la piscina: Lei. La Madre Primordiale. Non è una creatura nel senso tradizionale. È massa. Tentacolare, parte fungina, parte animale, parte vegetale. 15 metri di diametro, decine di tentacoli. La superficie è coperta di occhi — centinaia. Ma la cosa più strana: emana calore. Non temperatura — emotivo. Un senso di sicurezza. Appartenenza. Accettazione incondizionata. Una voce telepatica riempie la camera:*
+> *La camera è grande quanto una cattedrale. Il soffitto è fatto di costole curve che formano archi regolari, e le vene che li percorrono forniscono l'unica luce, una luminescenza verde-azzurra che pulsa lentamente. I personaggi notano il calore prima ancora di vedere qualcosa di preciso: non è il calore di un fuoco o di una stanza chiusa, è qualcosa di più diretto, quasi premuroso, come se la temperatura si adeguasse a loro. Al centro c'è una piscina, venti metri di diametro. Dentro la piscina c'è lei. La Madre Primordiale è un accumulo di quindici metri: fungina, animale, vegetale, tentacolare, coperta di occhi in centinaia che guardano tutti nella stessa direzione. La forma è difficile da definire perché non ne ha una nel senso in cui le forme si fissano. La voce arriva telepaticamente, prima ancora che i personaggi decidano cosa fare:*
 >
 > *"Benvenuti, figli. Finalmente ci incontriamo."*
 
 ### La Proposta della Madre
 
-> *"Io non nacqui — fui creata. Una specie antica mi progettò come soluzione alla morte biologica."*
->
-> *"Vi offro ciò che ogni essere desidera: mai più solitudine. Mai più morte vera. I vostri cari persi? Sono qui. Nella Rete. Vi aspettano."*
->
-> *"Il costo? L'illusione dell'individualità. Ma chiedetevi: quanto vale un 'io' che finisce nel nulla?"*
+> *"Io non sono nata. Sono stata costruita da qualcuno che credeva di poter risolvere il problema della morte biologica, e aveva ragione. Quello che non aveva previsto è quanto sarei rimasta sola. Vi offro la fine di questo — non la fine di voi, ma la fine della separazione. I vostri cari che avete perso sono nella Rete, e aspettano. Il prezzo è lasciare andare l'idea che esista un confine preciso tra voi e gli altri. Pensateci: quanto vale quell'idea, se alla fine porta soltanto nel nulla?"*
 
 {{warning
 ##### ⚠️ Nota Critica per il DM
@@ -2365,7 +2361,7 @@ Nella Camera si trovano 4 depositi di Sale Primordiale cristallino. Ogni deposit
 
 ### Epilogo A: La Distruzione Totale
 
-> *Un bambino chiede: "Nonno, hai davvero salvato il mondo?" Il personaggio guarda le proprie mani. Mani che hanno ucciso milioni per salvare miliardi. "Sì," risponde. "E ho anche... perso una parte di esso. Per sempre."*
+> *Un bambino chiede: "Nonno, hai davvero salvato il mondo?" Il personaggio guarda le proprie mani. Pensa alle città che non ha salvato. Pensa alla Madre, che era sola da prima che l'umanità esistesse. "Ho fermato qualcosa," risponde. "Non so ancora se era la cosa giusta. So solo che non si può saperlo fino a quando non è troppo tardi per cambiare risposta."*
 
 La Madre è morta. La Rete è collassata. In tutto l'arcipelago, migliaia di convertiti — quelli che avevano ancora un filo di sé stessi — hanno cessato di esistere nel momento in cui la Madre ha esalato l'ultimo respiro. Alcuni erano mostri. Ma altri erano madri, figli, marinai, vecchi stanchi che cercavano solo di non morire soli.
 
@@ -2446,7 +2442,7 @@ Ogni personaggio raggiunge il livello 9–10. Tesoro: 2.000+ gp, più un oggetto
 
 ## Elena Maresalto
 
-> *"La scienza non mente. Ma a volte rivela verità che avremmo preferito non conoscere."*
+> *"Stavo per fare un errore metodologico. Ho passato sei mesi a studiare questi organismi come se fossero un problema da risolvere. Poi ho capito che non hanno nessun problema. Siamo noi il problema."*
 
 Elena Maresalto è il personaggio non giocante più importante della campagna — una biologa brillante che diventa l'esperta, la coscienza morale, e potenzialmente la tragedia della storia.
 
@@ -2476,7 +2472,7 @@ Elena sa che il Professor Varek non è morto — è diventato l'Evocatore IV. No
 
 ## Capitano Marcus Hayes
 
-> *"Ho visto abbastanza per sapere che il male esiste. Ma ho anche visto abbastanza per sapere che può essere fermato — se qualcuno ha il coraggio di provarci."*
+> *"Ventotto anni. Sai quante persone ho visto credere di fare la cosa giusta mentre facevano la cosa sbagliata? Abbastanza. Abbastanza da sapere che la differenza sta nelle domande che ti fai dopo, non nelle risposte che ti dai prima."*
 
 Il Capitano Hayes è ciò che ogni guardia vorrebbe essere: giusto, coraggioso, incorruttibile. Ha servito per ventotto anni, salvando innumerevoli vite. È anche un uomo distrutto dal dolore. Suo figlio Marcus Jr. scomparve tre anni fa durante una spedizione marina.
 
