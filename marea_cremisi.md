@@ -346,6 +346,59 @@ Se più della metà del gruppo si riconosce in uno di questi profili, non signif
 
 > *"In questa campagna esploriamo temi difficili: trasformazione, perdita, scelte impossibili. Ci impegniamo a trattarci con rispetto, a usare gli strumenti di sicurezza senza imbarazzo, e a ricordare che il divertimento collettivo viene prima della coerenza narrativa. Il DM si riserva di modificare o saltare contenuti in qualsiasi momento."*
 
+### Le Visioni della Rete
+
+Prima dell'Arco 1, ogni personaggio riceve una visione onirica dalla Rete. Non è una conseguenza dell'Infezione — accade a tutti, infetti o no. La Rete è presente ovunque, anche nei sogni di chi non la conosce ancora.
+
+**Preparazione (solo DM).** Prima della Sessione Zero, il DM prepara 20 bigliettini con il testo delle visioni qui sotto, numerati 1-20 ma senza indicare il tipo. Il DM tiene per sé la tabella delle corrispondenze segrete.
+
+**Distribuzione.** Ogni giocatore pesca un bigliettino a caso, lo legge in silenzio, lo conserva per tutta la campagna. Non lo mostra agli altri se non vuole. Il DM non rivela cosa significano.
+
+**Attivazione.** Durante la campagna, quando un giocatore riconosce nella scena in corso un'immagine, un'atmosfera, o un dettaglio che richiama la sua visione, può dichiararla ad alta voce. Ottiene **vantaggio a una prova pertinente**, una volta sola per campagna. Non serve una corrispondenza esatta: se il giocatore lo sente, è abbastanza.
+
+**Rivelazione finale.** A fine campagna, dopo l'epilogo, il DM rivela le corrispondenze segrete. I giocatori scoprono cosa le loro visioni indicavano davvero.
+
+{{note
+##### Perché Funziona per la Rigiocabilità
+In ogni nuova run le visioni estratte sono diverse. Questo cambia quale agente ha una vulnerabilità diversa, dove si trovano certi oggetti, e quali momenti narrativi risuonano con quali giocatori. Non è randomizzazione meccanica — è randomizzazione emotiva.
+}}
+
+#### Tabella Visioni della Rete (d20)
+
+Il DM usa questa tabella. I bigliettini per i giocatori contengono solo il testo della visione, senza tipo né corrispondenza.
+
+| d20 | Visione | Tipo | Corrispondenza Segreta (solo DM) |
+|:---:|:---|:---:|:---|
+| 1 | *"Sei su una scogliera. Sotto di te, qualcuno chiama il tuo nome con la voce di una bambina. Ti sporgi. Non c'è nessuno — solo il mare, e una culla vuota sull'acqua che si allontana senza affondare mai."* | A | **Seraphina (Baia Perla).** In questa run ha una figlia che non vede da anni — non morta, partita. Menzionarla durante il confronto apre una crepa che la fede non chiude. |
+| 2 | *"Sei in una sala da ballo deserta. Le candele bruciano ancora. Sul pavimento, due impronte di scarpe piccole che girano e girano. Senti che qualcuno ha aspettato qui così a lungo da dimenticare di aspettare."* | A | **Contessa Malvasia (Porto Salvia).** In questa run protegge qualcuno genuinamente amato. Se i personaggi lo minacciano implicitamente, la Contessa tratta. Se cercano di separarlo con la forza, non tratta mai. |
+| 3 | *"Sei al buio completo. Poi, lentamente, senti le tue dita. I tuoi piedi. Il peso del tuo corpo. Come ricordare qualcosa che pensavi di aver perso. Poi la luce si spegne di nuovo."* | A | **Il Faro Vivente (Scogliera Nera).** In questa run conserva un frammento di coscienza individuale. Un PG con Infezione 2+ può percepirlo via Rete e comunicarci per un round. Il Faro non sa cosa dire, ma risponde. |
+| 4 | *"Sei su una nave ferma. L'equipaggio è immobile, con gli occhi aperti. Riconosci le facce — non le hai mai viste, eppure le riconosci. Uno ti tende la mano con la bocca aperta come se stesse per dirti qualcosa di importante da anni."* | A | **Osso-Spezzato (Isola Corallo).** In questa run c'è un membro dell'equipaggio originale non convertito, nascosto, fedele. Conosce il vero nome dell'Ammiraglio. Pronunciarlo durante il confronto lo destabilizza. |
+| 5 | *"Sei in una cantina. Le bottiglie sono tutte rotte tranne una. È verde, piccola, nascosta dietro il vetro. Non sai cosa contiene, ma sai che serve."* | B | **Siero extra nascosto.** Una dose extra di Siero è nascosta in una location che i personaggi visiteranno. Non è automatica: serve CD 14 Percezione o Investigazione. Il DM decide dove prima dell'Arco 1. |
+| 6 | *"Sei seduto a un tavolo con qualcuno che non ti guarda. Non parla. Poi spinge verso di te una chiave. Non capisci perché ti fidi così tanto di qualcuno che non ha ancora aperto la bocca."* | B | **PNG alleato inaspettato.** Un PNG secondario (a scelta del DM) sarà insolitamente disponibile ad aiutare senza ragione ovvia. I personaggi devono guadagnarsi la sua fiducia con un atto concreto prima che parli. |
+| 7 | *"Stai guardando il mare dal basso. Vedi la sagoma di un'isola dall'alto, le sue coste irregolari, una torre al centro. La forma resta impressa come una cicatrice."* | B | **Mappa parziale dell'Isola Necrotica.** I personaggi trovano nell'Arco 2 una mappa parziale che mostra il perimetro, la torre, e un ingresso secondario. Riduce la difficoltà dell'infiltrazione iniziale dell'Arco 3 (rimuovi un incontro casuale). |
+| 8 | *"C'è qualcuno chiuso in una stanza. Non riesci a vedere il viso. Lo senti che parla a se stesso — e ogni parola è qualcosa che avresti voluto sapere prima."* | B | **Prigioniero con informazioni.** Tra i prigionieri del Requiem c'è qualcuno che ha visitato l'Isola Necrotica ed è tornato (Infezione 3, semi-lucido). Se i personaggi lo salvano e dedicano tempo a interrogarlo, ottengono un dettaglio concreto sull'Arco 3. |
+| 9 | *"Un uomo ti vende qualcosa al mercato. Poi ti dice: 'L'ho vista, sai. Una volta. Non è quello che pensate.' Scompare nella folla prima che tu possa chiedere altro."* | B | **Mercante neutrale.** Un mercante itinerante ha incontrato un'emanazione della Madre e ne è rimasto cambiato ma non convertito. Se i personaggi lo trovano e lo convincono a parlare, guadagnano vantaggio alla prima prova della Skill Challenge di negoziazione nell'Arco 3. |
+| 10 | *"Sei in un luogo che conosci. Sotto il pavimento, qualcosa brilla. Non oro. Qualcosa di più semplice, più bianco. Non lo prendi nel sogno, ma sai dove è."* | B | **Cache di sale purificato.** Una cache nascosta (1d4+2 dosi) si trova in una location dell'Arco 1 o del primo nodo dell'Arco 2. È sepolta o murata. Chi ha questa carta può dichiarare dove cercare quando attiva la visione. |
+| 11 | *"Sei su una barca ferma nella nebbia così densa che non vedi le tue mani. Senti qualcuno remare accanto a te. Non hai paura. Questo è il problema."* | C | Riappare quando il gruppo naviga di notte nell'Arco 2. Il DM può descrivere esattamente questa scena — il giocatore con questa carta può scegliere di dichiararla, aggiungendo un momento di silenzio al tavolo. |
+| 12 | *"Apri una porta e dall'altra parte c'è il mare. Non una spiaggia — il mare, verticale, come un muro. L'acqua non cade. Ti aspetta."* | C | Risuona nell'entrata della Camera nell'Arco 3. Il DM può descrivere la soglia con queste parole: l'acqua sul soffitto che non scende. |
+| 13 | *"Stai parlando con qualcuno che ami. Non ricordi cosa stai dicendo. Ricordi solo che era importante — la cosa più importante — e ti sei svegliato prima della risposta."* | C | Ideale per la rivelazione del traditore. Il DM può richiamarla nel momento del confronto: chi ha questa carta ha già vissuto questa sensazione. |
+| 14 | *"Sei sotto una pioggia rossa. Non fa male. Gli altri alzano la faccia e sorridono. Tu sei l'unico che sa che è sbagliato. Non riesci a ricordare perché."* | C | Risuona nella Fase 3 del confronto con la Madre, quando offre la pace. Chi ha questa carta comprende — o non comprende — perché resistere. |
+| 15 | *"Trovi un libro con la tua storia scritta in anticipo, con eventi non ancora successi. Leggi una pagina sola. Poi il libro si chiude e non riesci più ad aprirlo."* | C | Il DM può lasciare un libro vero sulla stiva del Requiem, apparentemente vuoto. Chi ha questa carta sa che non è vuoto per tutti. |
+| 16 | *"Sei in una città piena di gente immobile, in piedi, con gli occhi chiusi. Respirano. Aspettano. Non sai cosa aspettano, ma hai la sensazione di averlo saputo una volta."* | C | Descrive una città con infezione avanzata. Se il gruppo arriva a un nodo in stato critico, il DM usa questa scena — e chi ha la carta la riconosce. |
+| 17 | *"Scendi una scala che non finisce mai. Non hai paura di cadere. Hai paura di arrivare."* | C | La discesa verso la Camera nell'Arco 3 è esattamente questa sensazione. Il DM può usare queste parole e chi ha la carta capisce prima degli altri dove sta andando. |
+| 18 | *"C'è una voce che conosci — non sai di chi è, ma la riconosci — che dice il tuo nome una sola volta. Come se fosse abbastanza."* | C | Risuona nel momento in cui la Madre parla per la prima volta direttamente a un personaggio per nome. Chi ha questa carta ha già sentito questa voce nel sogno. |
+| 19 | *"Il tuo riflesso nell'acqua sorride mezzo secondo dopo di te."* | C | Il DM usa questa immagine come descrizione narrativa quando il personaggio con questa carta raggiunge Infezione 2. |
+| 20 | *"Sei all'asciutto. Tutti gli altri stanno annegando — lentamente, senza panico, quasi con sollievo. Ti chiedono di scendere. Non con le parole."* | C | Descrive il finale dell'Accettazione meglio di qualsiasi altra descrizione. Se il gruppo sceglie quel percorso, chi ha questa carta può leggerla ad alta voce come chiusura narrativa. |
+
+{{note
+##### Tipi di Visione
+**Tipo A (4 visioni):** Determinano quale agente in questa run ha una vulnerabilità emotiva non standard. Cambiano il tono di quel nodo in modo significativo.
+
+**Tipo B (6 visioni):** Spostano oggetti, alleati, e informazioni in posizioni diverse rispetto alla run precedente. Cambiano la logistica della campagna.
+
+**Tipo C (10 visioni):** Non hanno effetto meccanico diretto. Si agganciano a momenti narrativi specifici, amplificandoli per il giocatore che le possiede. Sono il cuore del sistema.
+}}
+
 \page
 
 # Capitolo 4: Preparativi
@@ -1265,6 +1318,19 @@ Chi salvano? Chi lasciano? Le conseguenze li seguiranno.
 
 \page
 
+{{note
+##### 👁️ La Prima Voce della Madre — Scena Opzionale (durante la fuga dalla stiva)
+Se almeno un prigioniero muore durante il salvataggio — per l'infezione, per il tempo, per una scelta impossibile — il DM può usare questo momento. Non è obbligatorio, ma è il primo contatto diretto con la Madre.
+
+> *La donna anziana nella fila di fondo non si alza quando aprite la sua gabbia. Troppo tardi. Il respiro si è fatto impercettibile mentre stavate liberando gli altri. Poi, nell'istante prima che cessi del tutto, apre gli occhi. Vi guarda uno a uno, come se vi conoscesse da sempre. Parla con una voce che non è la sua: pacata, larga, quasi tenera.*
+>
+> *"Non piangere per lei. È con me adesso. Non sente più niente."*
+>
+> *Gli occhi si richiudono. L'aria nella stiva non cambia.*
+
+Il DM non aggiunge nulla. Non spiega la voce. Se i personaggi cercano di capire cosa è successo, nessuna prova lo rivela. È solo aria, e un corpo che ha smesso di respirare.
+}}
+
 ## Parte V: Il Confronto Finale
 
 Quando la copertura salta (Sospetto 10) o i personaggi scelgono lo scontro diretto, Thorne mobilita le forze della nave.
@@ -1518,6 +1584,21 @@ Ogni Nodo ha una densità parassitaria che aumenta settimanalmente se non fermat
 
 **Livelli Iniziali:** Baia Perla: 2 | Porto Salvia: 1 | Scogliera Nera: 3 | Isola Corallo: 1 | Porto Ambra: 2 | Città Origine: 1
 
+{{note
+##### 👁️ La Prima Voce — Scena Opzionale (dopo la prima città persa)
+La notte successiva alla perdita del primo nodo, il DM sceglie il personaggio con il livello di Infezione più alto. Quel personaggio si sveglia — o crede di svegliarsi.
+
+> *Non c'è niente di diverso nella stanza. Stessa oscurità, stesso rumore del mare. Poi senti una voce che arriva da sotto, come se qualcuno parlasse attraverso l'acqua dello scafo.*
+>
+> *"Lo sai anche tu che non si può salvare tutti. Ti capisco meglio di quanto tu creda."*
+>
+> *Non è una minaccia. Non è un ordine. Poi sparisce — come una nota che non riesce a trattenere.*
+>
+> *Gli altri dormono.*
+
+Il personaggio non riceve danni e non acquisisce Infezione. Non succede meccanicamente nulla. Il DM non conferma né nega cosa fosse. Se il giocatore chiede, il DM risponde: *"Non lo sai."*
+}}
+
 \page
 
 ## Il Requiem come Base Operativa
@@ -1588,6 +1669,14 @@ Il convento delle Spose del Mare è venerato per i suoi "miracoli": i defunti ch
 
 **Complicazione:** Le famiglie NON vogliono sapere la verità. I personaggi potrebbero essere visti come mostri che distruggono gli ultimi momenti con i loro cari.
 
+### La Cripta delle Ultime Parole
+
+> *La porta in fondo alla navata non è segnalata. Scende sotto il livello del mare — lo si capisce dal freddo che sale dai gradini e dall'umidità che si condensa sulle pareti. Dentro, file di lastre di pietra grigia riportano i nomi dei defunti rianimati nel corso degli anni. Ogni lastra ha una fessura stretta all'altezza del petto: le famiglie ci infilano lettere per i loro morti, convinte che vengano lette. Le lettere più recenti hanno i bordi scuri, quasi corrose dal basso, come se qualcosa le stesse consumando dalla pietra verso l'alto. L'odore è quello dolciastro che i personaggi conoscono già dalla stiva del Requiem — solo più concentrato, più vecchio.*
+
+Le lettere non vengono lette. Non da nessuno. Chi lo capisce prima che il DM lo dica vince un momento di silenzio al tavolo.
+
+**Meccanica:** CD 14 Investigazione per trovare, tra le lettere consumate, una ancora intatta. Contiene informazioni sul calendario dei "miracoli" di Seraphina — riduce di tre giorni il tempo necessario per smascherare il culto.
+
 ### Tabella 11: Eventi a Baia Perla (d12)
 
 | d12 | Evento | Effetto | Opportunità |
@@ -1619,6 +1708,27 @@ Il convento delle Spose del Mare è venerato per i suoi "miracoli": i defunti ch
 | **Sfida Principale** | Affrontare qualcuno che amavano |
 
 Questo Nodo è progettato per colpire i personaggi personalmente. Il DM sceglie un PNG dai background dei giocatori — un mentore, un familiare, un amico d'infanzia — e rivela che è l'agente della Marea in questa città.
+
+### La Stanza della Lettera
+
+> *Una stanza piccola, al primo piano di un edificio che i personaggi hanno già visto dall'esterno senza notare. Un tavolo, una sedia, una finestra che dà sul porto. Sul tavolo c'è una lettera piegata in quattro — carta comune, inchiostro normale. La candela accanto è consumata fino alla base. Una seconda candela, intera, è posata accanto senza essere mai stata usata. L'ultima riga della lettera ha l'inchiostro più chiaro. L'odore della stanza è inchiostro, cenere fredda, e il mare che entra dalla finestra socchiusa.*
+
+Non è orrore. È la stanza dove qualcuno ha deciso, e poi ha cercato di spiegarlo a qualcuno che non avrebbe mai letto la spiegazione.
+
+**La lettera.** Il DM la scrive prima dell'Arco 2, personalizzata sul traditore scelto per questa run. Non deve essere lunga — tre o quattro frasi sono sufficienti. La struttura è sempre la stessa: un motivo, una scusa o la sua assenza, e una cosa che il traditore non è riuscito a dire di persona.
+
+Righe di apertura per ciascun traditore possibile:
+
+- *Hayes:* "Non ho scelto questo. C'è stato un momento in cui ho capito che era troppo tardi, e ho deciso che almeno potevo scegliere come procedere."
+- *Baronessa Corvonero:* "La gratitudine che vi ho mostrato era reale. Tutto il resto era necessario."
+- *Elena Maresalto:* "Non so più distinguere quello che penso da quello che la Rete mi suggerisce di pensare. Forse non c'è più differenza."
+- *Famigliare di un PG:* "Se potessi spiegartelo di persona, lo farei. Ma se fossi capace di farlo di persona, non sarei qui."
+- *Padre Casso:* "Ho ascoltato le confessioni di trecento persone. Nessuna di loro chiedeva perdono per le cose giuste."
+- *PNG minore:* "Nessuno si accorgerà che sono sparito. Questo è il problema. Questo è sempre stato il problema."
+
+{{note
+**Nota operativa.** Se i personaggi leggono la lettera prima del confronto, il traditore lo capisce nel momento in cui li vede. Non lo dice. Il DM descrive solo una pausa — una frazione di secondo in cui il traditore guarda le loro mani invece dei loro occhi. Da quel momento, non mente più. Risponde alle domande dirette con risposte dirette. Questo non significa che si arrenda: significa che smette di fingere di non sapere cosa sanno.
+}}
 
 {{warning
 ##### 🔒 Nota per il DM
@@ -1680,6 +1790,14 @@ Almeno uno di questi meccanismi dovrebbe essere attivato in ogni campagna, indip
 
 La Contessa Malvasia è una figura rispettata che gestisce orfanotrofi in tutta la città. In segreto, i bambini "adottati" vengono convertiti in Marionette Parassita di piccola taglia, destinate agli esperimenti dell'Evocatore VII.
 
+### La Sala delle Maschere
+
+> *Il salone principale del palazzo si vede dalla strada attraverso le finestre illuminate: decine di figure in abiti sontuosi che ballano, ridono, brindano. Entrandoci, si capisce cosa non torna. Le maschere — ognuna un'opera d'arte, lacca bianca e dettagli dorati — non cambiano mai. Non ci sono ospiti diversi da sera a sera: sono sempre gli stessi, con le stesse maschere, gli stessi movimenti. Ballano in sincronia perfetta, senza ritardi, senza variazioni. Nessuno parla fuori turno. Le risate arrivano tutte insieme, si spengono tutte insieme. Ai margini, i servi senza maschera si muovono con la testa bassa, come se guardare la sala richiedesse uno sforzo che non vogliono fare.*
+
+Le maschere sono belle. Non è questo il problema — il problema è che sono perfette, e la perfezione qui ha perso il motivo per cui esisteva.
+
+**Meccanica:** CD 15 Intuizione per riconoscere la sincronia come artificiale. Chi riesce ottiene vantaggio alla prima prova di Inganno contro Malvasia — sa già che non sta interagendo con persone, sta interagendo con una coreografia.
+
 ### Tabella 13: Eventi a Porto Salvia (d12)
 
 | d12 | Evento | Effetto | Opportunità |
@@ -1713,6 +1831,14 @@ La Contessa Malvasia è una figura rispettata che gestisce orfanotrofi in tutta 
 > *Le acque intorno all'isola sono di un azzurro così intenso da sembrare irreale, e sotto la superficie si intravede una foresta di coralli dai colori impossibili. L'isola stessa è un paradiso tropicale: palme, spiagge bianche, una brezza calda profumata di fiori. Ma le navi che vedi all'orizzonte non sono mercantili. Sono navi da guerra, e portano bandiere nere.*
 
 Silas non è un agente volontario. L'Evocatore tiene prigioniera sua figlia Elara sull'Isola Necrotica. Se i personaggi salvano Elara (missione parallela), Silas smette di collaborare — non c'è bisogno di combattere.
+
+### Il Pontile dei Nomi
+
+> *Il molo sul lato nord dell'isola non è segnato sulle carte. Le assi sono marce, alcune spezzate, e la struttura si inclina leggermente verso destra come se stesse cedendo da anni. Su ogni asse leggibile c'è un nome inciso — non dipinto, inciso, con qualcosa di piccolo e appuntito. Nomi di uomini e donne. Date. Alcuni sono freschi: la polvere di legno è ancora chiara intorno ai segni. Silas ha ancora un coltellino in mano quando i personaggi arrivano. Non li sente avvicinarsi. Sta incidendo un nome nuovo.*
+
+Non sa spiegare perché lo fa. Lo fa da anni, ogni volta che una nave arriva e qualcuno non riparte. È l'unica parte di lui che ancora sa che qualcosa è sbagliato.
+
+**Meccanica:** Se i personaggi chiedono a Silas dei nomi, fa una pausa lunga, poi dice: *"Qualcuno doveva ricordarli."* Questo sblocca automaticamente la possibilità di negoziare — senza questa scena, la negoziazione richiede CD 18 Persuasione. Con questa scena, la CD scende a 13.
 
 ### Tabella 14: Escalation Isola Corallo (d12)
 
@@ -1759,6 +1885,14 @@ Se Lucia 'Nodi' Ferrante fa parte dell'equipaggio del Requiem (Tabella 8, voce 5
 **Se non curata.** Lucia capisce ma non perdona facilmente. Il DM applica Morale -1 all'equipaggio. Lucia potrebbe chiedere di restare a Porto Ambra per sorvegliare la sorella invece di proseguire con i personaggi.
 }}
 
+### Il Magazzino del Sonno
+
+> *L'aria cambia prima ancora di aprire la porta — più calda del dovuto, umida di un calore che non viene dal sole. Dentro, file di casse di legno aperte, ciascuna con una persona dentro. Sono adulti, per lo più: marinai, lavoratori, qualche donna anziana. Dormono. Sorridono. La condensa copre il pavimento di uno strato sottile e regolare. Nessuno si sveglia quando i personaggi entrano, quando parlano, quando li toccano. Alcune facce sembrano familiari — quel taglio di capelli, quell'età. Forse è solo la luce.*
+
+Sono vivi. Questo è il punto che il DM non deve mai dire esplicitamente, ma che i personaggi devono arrivare a capire da soli, magari troppo tardi per qualcuno.
+
+**Meccanica:** CD 13 Medicina per confermare che respirano regolarmente e che i segni vitali sono stabili. CD 16 Medicina per capire che la temperatura corporea elevata non è febbre: è la Rete che usa il loro calore. Svegliarli con forza causa a ciascuno 2d6 danni psichici e Infezione +1 — la disconnessione brusca dalla Rete è traumatica.
+
 ### Tabella 15: Escalation Porto Ambra (d12)
 
 | d12 | Evento | Effetto | Opportunità |
@@ -1792,6 +1926,14 @@ Se Lucia 'Nodi' Ferrante fa parte dell'equipaggio del Requiem (Tabella 8, voce 5
 > *Il villaggio è poco più di una manciata di case di pietra grigia aggrappate a una scogliera a picco sul mare. La nebbia è così densa che non riesci a vedere a più di dieci passi, e il suono delle onde che si infrangono sugli scogli ha un ritmo ipnotico, quasi musicale. Sul punto più alto della scogliera, la luce del faro pulsa — non con la regolarità di una fiamma meccanica, ma con il battito lento e costante di un cuore.*
 
 Il relitto della Stella Nera affondò cinquant'anni fa. Ora è riemerso. L'equipaggio non-morto non capisce di essere morto — cercano di tornare dalle famiglie (che nel frattempo sono tutte morte), rifiutano il cibo perché "non hanno fame", e non capiscono perché i villageois li temono.
+
+### La Lanterna
+
+> *I gradini finiscono su una porta bassa che si apre verso l'interno. Prima ancora di entrare del tutto, i personaggi si vedono riflessi nei vetri delle finestre — ogni finestra, tutte insieme, come specchi. Poi capiscono: dall'interno non si vede fuori. Solo la propria immagine, moltiplicata. Al centro della stanza, senza supporto visibile, qualcosa pulsa. È denso, traslucido, delle dimensioni di un cuore grande. Pulsa a intervalli troppo regolari per essere casuali, troppo lenti per essere umani. Le pareti sono rivestite di una sostanza organica pallida, tiepida al tatto, che non reagisce quando viene toccata. L'unico suono è quel battito. Da fuori, le finestre sono trasparenti. Qualcosa ha avuto questa vista per cinquant'anni.*
+
+Il nucleo è la parte più concentrata del Faro Vivente. Se esiste ancora una coscienza residua in questa struttura, è qui.
+
+**Meccanica:** Distruggere il nucleo (20 PF, immunità fuoco, vulnerabilità radioso) spegne il faro in modo permanente e interrompe immediatamente il controllo sulle navi della Marea nell'area. Causa anche la morte del Faro Vivente come entità cosciente — se i personaggi hanno comunicato con esso in precedenza, il DM descrive quel momento senza commentarlo. Lasciare il nucleo intatto e neutralizzare il Faro in altro modo richiede CD 20 Persuasione e un argomento che il Faro non abbia già sentito.
 
 ### Tabella 16: Escalation Scogliera Nera (d12)
 
@@ -1877,6 +2019,21 @@ Alla fine delle 12 settimane:
 > *"Dove la Morte Ebbe Inizio, la Morte Deve Finire."*
 
 Questo è l'atto finale. I personaggi raggiungono l'Isola Necrotica per confrontare la Madre Primordiale. Non è un semplice dungeon crawl — è un viaggio verso il cuore di una filosofia aliena.
+
+{{note
+##### 👁️ I Ricordi — Scena Obbligatoria (terza notte del viaggio)
+La terza notte di navigazione, prima di avvistare l'isola, ogni personaggio riceve un ricordo. Non un sogno, non una visione: il DM descrive ad alta voce, a ciascun giocatore a turno, un momento autentico dal background del personaggio — un momento in cui era solo davvero.
+
+Il DM sceglie il ricordo senza chiedere conferma al giocatore. Lo descrive in seconda persona, brevemente, come se qualcuno lo stesse mostrando:
+
+- *"Sei nel porto il giorno in cui tuo padre non è tornato. Aspetti finché non fa buio."*
+- *"Sei nella stanza dopo che hanno portato via il corpo. L'odore di cera e fiori. Nessun altro."*
+- *"Sei sulla nave la prima notte lontano da casa. Non piangi. Questo è il problema."*
+
+La Madre non aggiunge niente. Non c'è una voce, non c'è un volto. C'è solo il ricordo, restituito intatto.
+
+**Nota operativa:** Se un giocatore non ha un background scritto, il DM inventa. Se la scena provoca disagio reale, il DM la sospende senza commentarla — ma non lo propone in anticipo come opzione.
+}}
 
 ## Il Viaggio: 3 Giorni
 
